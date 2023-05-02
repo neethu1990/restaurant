@@ -1,0 +1,25 @@
+#navbarSupportedContent .navbar-nav .nav-item .nav-link{
+    color: aliceblue;
+}
+#carouselExampleControls .carousel-inner .carousel-item img{
+    max-height: 400px;
+    max-width: auto;
+}
+.carouselExampleCaption .carousel-inner .carousel-item img{
+    background-color: rgba(11, 11, 11, 0.6);
+}
+@media only screen and(max-width:768px) {
+    #carouselExampleControls .carousel-inner .carousel-item img{
+        max-width: auto;
+        max-height: 400px;
+    }
+    
+}
+header. navbar .navbar-toggler{
+    border: solid 1px rgb(200, 200, 200);
+    background-color:aliceblue;
+}
+.carousel-item .carousel-caption{
+    color: aliceblue;
+    background-color: darkslategrey;
+}
